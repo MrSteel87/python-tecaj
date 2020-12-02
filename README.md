@@ -1,0 +1,2 @@
+# python-tecaj
+Testiranje
